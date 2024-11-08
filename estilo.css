@@ -1,0 +1,45 @@
+* {
+	padding: 0%;
+	margin: 0%;
+}
+h1{
+	text-align: center;
+	background-color: aliceblue;
+	color: black;
+	padding: 20px;
+}
+nav ul{
+	background-color: aliceblue;
+	width: 100%;
+	list-style-type: none;
+	text-align: center;
+}
+nav li{
+	 display: inline-flex;
+}
+nav a{
+	text-decoration: none;
+	color: black;
+	padding: 4px;
+	width: 140px;
+}
+nav li:hover{
+	background-color: beige;
+}
+h3{
+	background-color: aliceblue;
+	text-align: center;
+}
+main{
+	background-color: aliceblue;
+
+}
+footer{
+	background-color: aliceblue;
+}
+body{
+	background-color: aliceblue;
+}
+p{
+	text-decoration: none; 
+}
